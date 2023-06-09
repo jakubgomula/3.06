@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Zadanie10\obj\Debug\net7.0\Zadanie10.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Zadanie10\obj\Debug\net7.0\Zadanie10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Zadanie10\obj\Debug\net7.0\Zadanie10.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Zadanie10\obj\Debug\net7.0\Zadanie10.AssemblyInfo.cs
+C:\Users\User\source\repos\Zadanie10\obj\Debug\net7.0\Zadanie10.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Zadanie10\bin\Debug\net7.0\Zadanie10.exe
+C:\Users\User\source\repos\Zadanie10\bin\Debug\net7.0\Zadanie10.deps.json
+C:\Users\User\source\repos\Zadanie10\bin\Debug\net7.0\Zadanie10.runtimeconfig.json
+C:\Users\User\source\repos\Zadanie10\bin\Debug\net7.0\Zadanie10.dll
+C:\Users\User\source\repos\Zadanie10\bin\Debug\net7.0\Zadanie10.pdb
+C:\Users\User\source\repos\Zadanie10\obj\Debug\net7.0\Zadanie10.dll
+C:\Users\User\source\repos\Zadanie10\obj\Debug\net7.0\refint\Zadanie10.dll
+C:\Users\User\source\repos\Zadanie10\obj\Debug\net7.0\Zadanie10.pdb
+C:\Users\User\source\repos\Zadanie10\obj\Debug\net7.0\Zadanie10.genruntimeconfig.cache
+C:\Users\User\source\repos\Zadanie10\obj\Debug\net7.0\ref\Zadanie10.dll
