@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\Zadanie9\bin\Debug\net7.0\Zadanie9.exe
+C:\Users\User\source\repos\Zadanie9\bin\Debug\net7.0\Zadanie9.deps.json
+C:\Users\User\source\repos\Zadanie9\bin\Debug\net7.0\Zadanie9.runtimeconfig.json
+C:\Users\User\source\repos\Zadanie9\bin\Debug\net7.0\Zadanie9.dll
+C:\Users\User\source\repos\Zadanie9\bin\Debug\net7.0\Zadanie9.pdb
+C:\Users\User\source\repos\Zadanie9\obj\Debug\net7.0\Zadanie9.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Zadanie9\obj\Debug\net7.0\Zadanie9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\Zadanie9\obj\Debug\net7.0\Zadanie9.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Zadanie9\obj\Debug\net7.0\Zadanie9.AssemblyInfo.cs
+C:\Users\User\source\repos\Zadanie9\obj\Debug\net7.0\Zadanie9.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Zadanie9\obj\Debug\net7.0\Zadanie9.dll
+C:\Users\User\source\repos\Zadanie9\obj\Debug\net7.0\refint\Zadanie9.dll
+C:\Users\User\source\repos\Zadanie9\obj\Debug\net7.0\Zadanie9.pdb
+C:\Users\User\source\repos\Zadanie9\obj\Debug\net7.0\Zadanie9.genruntimeconfig.cache
+C:\Users\User\source\repos\Zadanie9\obj\Debug\net7.0\ref\Zadanie9.dll
